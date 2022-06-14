@@ -1,0 +1,106 @@
+function run () {
+
+    var data = [];
+    var More = configValue ? configValue : 1;
+    var elmScheme = {
+      scheme:"eleme://web?url=",
+      main:"eleme://home",
+      start: "",
+      end:""
+    }
+    var taobaoScheme = {
+      scheme:"taobao://m.taobao.com/tbopen/index.html?h5Url=",
+      main:"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
+      start: "taobao://huodong.m.taobao.com/act/snipcodeupdate.html?_ariver_appid=8251537&cpp=1&x_object_type=miniapp&_main_process=true",
+      end:""
+    }
+    var zfbScheme = {
+      scheme:"alipays://platformapi/startapp?appId=20000067&url=",
+      main:"alipays://platformapi/startapp?appId=20000001",
+      start: "alipays://platformapi/startapp?appId=20000120",
+      end:""
+    }
+    var schemes = {
+      1:[elmScheme],
+      2:[elmScheme,taobaoScheme],
+      3:[elmScheme,taobaoScheme,zfbScheme],
+      4:[zfbScheme],
+      5:[taobaoScheme],
+      6:[elmScheme,zfbScheme],
+    }
+    var scheme = schemes[More]
+    var taskList = DATA.activity.taskList
+    var t = (new Date()).getTime();
+
+    taskList = taskList.map((v) => DATA.taskData[v]);
+
+    scheme.map((s) => {
+
+      var marketNum = 0;
+      taskList.map((oneTask) => {
+        var itme = oneTask.task.item;
+        var before = oneTask.task.before;
+        //start
+        if ( s && s.start){
+          data.push({
+            url:s.start,
+            wait:5
+          })
+        }
+
+        //before
+        before.map((v) => {
+          data.push({
+            url:s.scheme + encodeURIComponent(v.url),
+            wait:v.wait
+          })
+        })
+        data.push({
+          url:s.main,
+          wait:5
+        })
+        //任务
+        itme.map((v,i) => {
+          var str = v;
+          var params = str.split(' ');
+
+          var url = `https://h5.ele.me/restapi/biz.svip_scene/svip/engine/xSupply?params[]=%7B%22tagCode%22:%22223166%22,%22extra%22:%7B%22missionDefId%22:${params[0]},%22missionCollectionId%22:${params[1]},%22missionType%22:%22${params[2] == 'S' ? 'SIMPLESIGNIN' : 'PAGEVIEW'}%22%7D%7D&bizCode=biz_code_main&longitude=121.35623168945312&latitude=41.17439270019531&o2o_page_id=xc539zecsy89e96dwzdebha2634lgqf6_${t}`
+
+
+          data.push({
+            url:s.scheme + encodeURIComponent(url),
+            wait:5
+          })
+          if (params[2] == 'P') {
+            var pUrl = `https://tb.ele.me/wow/alsc/mod/82d95064af4694ad0edc98bf?missionid=${params[0]}&missioncollectid=${params[1]}&taskfrom=a2ogi.15063444&bizscene=svip&taskpageviewasac=2A21119A45TTVAEXP40N7N&spm=a2ogi.chihuo_home_tasklist.tasklayer_scantask.${i}`
+            if (params[1] == '95'){
+
+              pUrl = `https://tb.ele.me/wow/alsc/mod/2aaa71cba8b26c16c5f434c8?missionid=${params[0]}&missioncollectid=${params[1]}&spm=a2ogi.newretail-wild.viptask.d${marketNum}&taskfrom=page.spm&bizscene=newRetail&taskpageviewasac=2A21119A45TTVAEXP40N7N`
+              marketNum ++
+
+            }
+            data.push({
+              url:s.scheme + encodeURIComponent(pUrl),
+              wait:23
+            })
+          }
+          if (i%2 === 0 && i !== 0){
+            data.push({
+              url:s.main,
+              wait:5
+            })
+          }
+        })
+
+      })
+    })
+    if (runNum > 0 && runNum != 1){
+      data = data.splice(runNum - 1,data.length);
+    }
+    var dd = {
+      succes: 'ok',
+      data:data
+    };
+
+    return JSON.stringify(dd);
+  };
