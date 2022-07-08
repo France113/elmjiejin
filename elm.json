@@ -11,7 +11,7 @@
         "交流·反馈 qq群":{
           "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=1023721392&card_type=group&source=qrcode"
         },
-        "❤️饿了么自动领豆（一键运行）更新2022-06-30❤️":{
+        "❤️饿了么自动领豆（一键运行）更新2022-07-07❤️":{
           "type":"task",
           "key":["饿了么自动领豆"]
         }
@@ -43,7 +43,7 @@
           "before":[
 
             {"url":"https://d9c2e8.ug.ele.me/wow/alsc/mod/9b7dd5e527780fb84b5559a7?inviterId=1a88c112&actId=1&_ltracker_f=chd&chInfo=ch_app_chsub_Photo","wait":9},
-            {"url":"https://m.tb.cn/h.fuKksM7","wait":7},
+            {"url":"https://m.tb.cn/h.fEGF9OM","wait":7},
             {"url":"https://m.tb.cn/h.fEZijw2","wait":9},
           ],
 
