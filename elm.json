@@ -3,15 +3,28 @@
 
       "tip":"请在网络好的地方执行\n出现跑代码显示 为正常现象\n有少数任务有遗漏，需要手动完成\n\n",
       "list":[
-        "❤️饿了么自动领豆（一键运行）更新2022-07-07❤️",
+        "❤️饿了么自动领豆（一键运行）更新2022-07-30❤️",
+        "饿了么红包01 三个红包都不同",
+        "饿了么红包01 三个红包都不同",
+        "饿了么红包01 三个红包都不同",
         "交流·反馈 qq群"
       ],
       "mapping" :{
-
         "交流·反馈 qq群":{
           "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=1023721392&card_type=group&source=qrcode"
         },
-        "❤️饿了么自动领豆（一键运行）更新2022-07-07❤️":{
+        "饿了么红包01 三个红包都不同":{
+          "url":"eleme://web?url=https://d9c2e8.ug.ele.me/wow/alsc/mod/9b7dd5e527780fb84b5559a7?inviterId=1a88c112&actId=1&_ltracker_f=chd&chInfo=ch_app_chsub_Photo"
+        },
+        "饿了么红包02":{
+          "url":"https://m.tb.cn/h.fuKksM7"
+        },
+        "饿了么红包03 三个红包都不同":{
+          "url":"https://m.tb.cn/h.fEZijw2"
+        },
+
+
+        "❤️饿了么自动领豆（一键运行）更新2022-07-30❤️":{
           "type":"task",
           "key":["饿了么自动领豆"]
         }
@@ -44,7 +57,7 @@
 
             {"url":"https://d9c2e8.ug.ele.me/wow/alsc/mod/9b7dd5e527780fb84b5559a7?inviterId=1a88c112&actId=1&_ltracker_f=chd&chInfo=ch_app_chsub_Photo","wait":9},
             {"url":"https://m.tb.cn/h.fxAY0Jp","wait":7},
-            {"url":"https://m.tb.cn/h.fCAl7e4","wait":9},
+            {"url":"https://m.tb.cn/h.fCAl7e4","wait":9}
           ],
 
           "item":[
