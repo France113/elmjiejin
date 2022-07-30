@@ -7,13 +7,13 @@
         "交流·反馈 qq群"
       ],
       "mapping" :{
- "饿了么红包":{
+         "饿了么红包1":{
           "url":"eleme://web?url=https://d9c2e8.ug.ele.me/wow/alsc/mod/9b7dd5e527780fb84b5559a7?inviterId=1a88c112&actId=1&_ltracker_f=chd&chInfo=ch_app_chsub_Photo",
         },
         "饿了么红包2 三个红包不同，都可领":{
             {"url":"https://m.tb.cn/h.fuKksM7","wait":7},
         },
-        "饿了么红包2 三个红包不同，都可领":{
+        "饿了么红包3 三个红包不同，都可领":{
             {"url":"https://m.tb.cn/h.fEZijw2","wait":9},
         },
         "交流·反馈 qq群":{
