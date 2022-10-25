@@ -1,121 +1,176 @@
 {
-    "activity":{
-
-      "tip":"请在网络好的地方执行\n出现跑代码显示 为正常现象\n有少数任务有遗漏，需要手动完成\n\n",
-      "list":[
-        "❤️饿了么自动领豆（一键运行）更新2022-07-30❤️",
-        "饿了么红包01 三个红包都不同",
-        "饿了么红包02",
-        "饿了么红包03 三个红包都不同",
-        "交流·反馈 qq群"
-      ],
-      "mapping" :{
-        "交流·反馈 qq群":{
-          "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=1023721392&card_type=group&source=qrcode"
+    "activity": {
+        "tip": "请在网络好的地方执行\n出现跑代码显示 为正常现象\n有少数任务有遗漏，需要手动完成\n\n",
+        "list": [
+            "❤️饿了么自动领豆（一键运行）更新2022-09-30❤️",
+            "饿了么红包（满减通用）",
+            "饿了么红包（点餐红包）",
+            "饿了么红包（超市菜红包）",
+            "交流·反馈 qq群"
+        ],
+        "mapping": {
+            "交流·反馈 qq群": {
+                "url": "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=658493328&card_type=group&source=qrcode"
+            },
+            "饿了么红包（满减通用）": {
+                "url": "eleme://web?url=https://ba6f50.ug.ele.me/wow/alsc/mod/9b7dd5e527780fb84b5559a7?inviterId=1a88c112&actId=1&FastMode=1&_ltracker_f=hjb_app_xbb&chInfo=ch_app_chsub_Photo"
+            },
+            "饿了么红包02": {
+                "url": "https://m.tb.cn/h.U4ar4u9"
+            },
+            "饿了么红包（超市菜红包）": {
+                "url": "https://m.tb.cn/h.U4Ay7eo"
+            },
+            "❤️饿了么自动领豆（一键运行）更新2022-09-30❤️": {
+                "type": "task",
+                "key": [
+                    "饿了么自动领豆"
+                ]
+            }
         },
-        "饿了么红包01 三个红包都不同":{
-          "url":"eleme://web?url=https://d9c2e8.ug.ele.me/wow/alsc/mod/9b7dd5e527780fb84b5559a7?inviterId=1a88c112&actId=1&_ltracker_f=chd&chInfo=ch_app_chsub_Photo"
-        },
-        "饿了么红包02":{
-          "url":"https://m.tb.cn/h.fuKksM7"
-        },
-        "饿了么红包03 三个红包都不同":{
-          "url":"https://m.tb.cn/h.fEZijw2"
-        },
-
-
-        "❤️饿了么自动领豆（一键运行）更新2022-07-30❤️":{
-          "type":"task",
-          "key":["饿了么自动领豆"]
-        }
-
-
-      },
-      "taskList":["饿了么自动领豆"]
+        "taskList": [
+            "饿了么自动领豆"
+        ]
     },
-    "taskData":{
-        "tag":"eleme",
-        "common":{
-            "url":"https://cdn.jsdelivr.net/gh/France113/elmjiejin@main/elmcsbb.txt"
-            
+    "taskData": {
+        "tag": "eleme",
+        "common": {
+            "url": "https://cdn.jsdelivr.net/gh/France113/elmjiejin@main/elmcsbb.txt"
         },
-        
-      "饿了么自动领豆":{
-        "endpage": "eleme://web?url=https://d9c2e8.ug.ele.me/wow/alsc/mod/9b7dd5e527780fb84b5559a7?inviterId=1a88c112&actId=1&_ltracker_f=chd&chInfo=ch_app_chsub_Photo",
-        "main": "eleme://home",
-
-
-        "task":{
-          "tag":"elemeConfig",
-          "scheme":"eleme://web?url=",
-          "baseurl":"https://service.sh.apigw.tencentcs.com/release/el?type=PAGEVIEW&id=占位参数1&mid=占位参数2",
-          "wait":5,
-          "param":{
-            "随机参数1":[999,888,777]
-          },
-          "before":[
-
-            {"url":"https://d9c2e8.ug.ele.me/wow/alsc/mod/9b7dd5e527780fb84b5559a7?inviterId=1a88c112&actId=1&_ltracker_f=chd&chInfo=ch_app_chsub_Photo","wait":9},
-            {"url":"https://m.tb.cn/h.fxAY0Jp","wait":7},
-            {"url":"https://m.tb.cn/h.fCAl7e4","wait":9}
-          ],
-
-          "item":[
-
-            "4912001 36 P",
-            "4926001 36 P",
-            "3780001 36 P",
-            "4988001 36 P",
-            "4924001 36 P",
-            "476001 36 P",
-            "5752001 36 P",
-            "5246001 36 P",
-            "5694001 36 P",
-            "5500002 36 P",
-            "4528001 36 P",
-            "8458001 36 S",
-
-
-         
-
-
-            "3030001 170 S",
-            "234001 36 S",
-            "3350001 36 S",
-            "1150001 36 S",
-            "4098001 36 S",
-            "4242001 36 S",
-            "4206001 36 S",
-            "4192001 36 S",
-            "4182001 36 S",
-            "4644001 36 S",
-            "4642001 36 S",
-            "4708001 36 S",
-            "4702001 36 S",
-            "4932001 36 S",
-            "4648001 36 S",
-            "4604001 36 S",
-            "4970001 36 S",
-            "3500001 36 S",
-            "5178001 36 S",
-            "3226001 36 S",
-
-            "4506001 95 P",
-            "3062001 95 P",
-            "4504001 95 P",
-            "4544001 95 P",
-            "4326003 95 P",
-            "4546001 95 P",
-            "4556001 95 P",
-            "5018001 95 P",
-            "5750001 36 P",
-            "5458001 36 S",
-            "4548001 95 P"
-
-          ]
+        "饿了么自动领豆": {
+            "endpage": "eleme://web?url=https://ba6f50.ug.ele.me/wow/alsc/mod/9b7dd5e527780fb84b5559a7?inviterId=1a88c112&actId=1&FastMode=1&_ltracker_f=hjb_app_xbb&chInfo=ch_app_chsub_Photo",
+            "main": "eleme://home",
+            "task": {
+                "tag": "elemeConfig",
+                "scheme": "eleme://web?url=",
+                "baseurl": "https://service.sh.apigw.tencentcs.com/release/el?type=PAGEVIEW&id=占位参数1&mid=占位参数2",
+                "wait": 5,
+                "param": {
+                    "随机参数1": [
+                        999,
+                        888,
+                        777
+                    ]
+                },
+                "before": [
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Ftb.ele.me%2Fwow%2Falsc%2Fmod%2F82d95064af4694ad0edc98bf%3Fmissionid%3D6518002%26missioncollectid%3D36%26taskfrom%3Da2ogi.15063444%26bizscene%3Dsvip%26taskpageviewasac%3D2A21119A45TTVAEXP40N7N%26spm%3Da2ogi.chihuo_home_tasklist.tasklayer_scantask.0",
+                        "wait": 23
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Fh5.ele.me%2Frestapi%2Fbiz.svip_scene%2Fsvip%2Fengine%2FxSupply%3Fparams%5B%5D%3D%257B%2522tagCode%2522%3A%2522223166%2522%2C%2522extra%2522%3A%257B%2522missionDefId%2522%3A4926001%2C%2522missionCollectionId%2522%3A36%2C%2522missionType%2522%3A%2522PAGEVIEW%2522%257D%257D%26bizCode%3Dbiz_code_main%26longitude%3D121.35623168945312%26latitude%3D41.17439270019531%26o2o_page_id%3Dxc539zecsy89e96dwzdebha2634lgqf6_1657551373879",
+                        "wait": 5
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Ftb.ele.me%2Fwow%2Falsc%2Fmod%2F82d95064af4694ad0edc98bf%3Fmissionid%3D4926001%26missioncollectid%3D36%26taskfrom%3Da2ogi.15063444%26bizscene%3Dsvip%26taskpageviewasac%3D2A21119A45TTVAEXP40N7N%26spm%3Da2ogi.chihuo_home_tasklist.tasklayer_scantask.1",
+                        "wait": 23
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Fh5.ele.me%2Frestapi%2Fbiz.svip_scene%2Fsvip%2Fengine%2FxSupply%3Fparams%5B%5D%3D%257B%2522tagCode%2522%3A%2522223166%2522%2C%2522extra%2522%3A%257B%2522missionDefId%2522%3A476001%2C%2522missionCollectionId%2522%3A36%2C%2522missionType%2522%3A%2522PAGEVIEW%2522%257D%257D%26bizCode%3Dbiz_code_main%26longitude%3D121.35623168945312%26latitude%3D41.17439270019531%26o2o_page_id%3Dxc539zecsy89e96dwzdebha2634lgqf6_1657551373879",
+                        "wait": 5
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Ftb.ele.me%2Fwow%2Falsc%2Fmod%2F82d95064af4694ad0edc98bf%3Fmissionid%3D476001%26missioncollectid%3D36%26taskfrom%3Da2ogi.15063444%26bizscene%3Dsvip%26taskpageviewasac%3D2A21119A45TTVAEXP40N7N%26spm%3Da2ogi.chihuo_home_tasklist.tasklayer_scantask.2",
+                        "wait": 23
+                    },
+                    {
+                        "url": "eleme://home",
+                        "wait": 5
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Fh5.ele.me%2Frestapi%2Fbiz.svip_scene%2Fsvip%2Fengine%2FxSupply%3Fparams%5B%5D%3D%257B%2522tagCode%2522%3A%2522223166%2522%2C%2522extra%2522%3A%257B%2522missionDefId%2522%3A6240001%2C%2522missionCollectionId%2522%3A36%2C%2522missionType%2522%3A%2522PAGEVIEW%2522%257D%257D%26bizCode%3Dbiz_code_main%26longitude%3D121.35623168945312%26latitude%3D41.17439270019531%26o2o_page_id%3Dxc539zecsy89e96dwzdebha2634lgqf6_1657551373879",
+                        "wait": 5
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Ftb.ele.me%2Fwow%2Falsc%2Fmod%2F82d95064af4694ad0edc98bf%3Fmissionid%3D6240001%26missioncollectid%3D36%26taskfrom%3Da2ogi.15063444%26bizscene%3Dsvip%26taskpageviewasac%3D2A21119A45TTVAEXP40N7N%26spm%3Da2ogi.chihuo_home_tasklist.tasklayer_scantask.3",
+                        "wait": 23
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Fh5.ele.me%2Frestapi%2Fbiz.svip_scene%2Fsvip%2Fengine%2FxSupply%3Fparams%5B%5D%3D%257B%2522tagCode%2522%3A%2522223166%2522%2C%2522extra%2522%3A%257B%2522missionDefId%2522%3A5500002%2C%2522missionCollectionId%2522%3A36%2C%2522missionType%2522%3A%2522PAGEVIEW%2522%257D%257D%26bizCode%3Dbiz_code_main%26longitude%3D121.35623168945312%26latitude%3D41.17439270019531%26o2o_page_id%3Dxc539zecsy89e96dwzdebha2634lgqf6_1657551373879",
+                        "wait": 5
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Ftb.ele.me%2Fwow%2Falsc%2Fmod%2F82d95064af4694ad0edc98bf%3Fmissionid%3D5500002%26missioncollectid%3D36%26taskfrom%3Da2ogi.15063444%26bizscene%3Dsvip%26taskpageviewasac%3D2A21119A45TTVAEXP40N7N%26spm%3Da2ogi.chihuo_home_tasklist.tasklayer_scantask.4",
+                        "wait": 23
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Ftb.ele.me%2Fwow%2Falsc%2Fmod%2F82d95064af4694ad0edc98bf%3Fmissionid%3D3780001%26missioncollectid%3D36%26taskfrom%3Da2ogi.15063444%26bizscene%3Dsvip%26taskpageviewasac%3D2A21119A45TTVAEXP40N7N%26spm%3Da2ogi.chihuo_home_tasklist.tasklayer_scantask.5",
+                        "wait": 23
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Fh5.ele.me%2Frestapi%2Fbiz.svip_scene%2Fsvip%2Fengine%2FxSupply%3Fparams%5B%5D%3D%257B%2522tagCode%2522%3A%2522223166%2522%2C%2522extra%2522%3A%257B%2522missionDefId%2522%3A4506001%2C%2522missionCollectionId%2522%3A95%2C%2522missionType%2522%3A%2522PAGEVIEW%2522%257D%257D%26bizCode%3Dbiz_code_main%26longitude%3D121.35623168945312%26latitude%3D41.17439270019531%26o2o_page_id%3Dxc539zecsy89e96dwzdebha2634lgqf6_1657551373879",
+                        "wait": 5
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Ftb.ele.me%2Fwow%2Falsc%2Fmod%2F2aaa71cba8b26c16c5f434c8%3Fmissionid%3D4506001%26missioncollectid%3D95%26spm%3Da2ogi.newretail-wild.viptask.d0%26taskfrom%3Dpage.spm%26bizscene%3DnewRetail%26taskpageviewasac%3D2A21119A45TTVAEXP40N7N",
+                        "wait": 23
+                    },
+                    {
+                        "url": "eleme://home",
+                        "wait": 5
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Fh5.ele.me%2Frestapi%2Fbiz.svip_scene%2Fsvip%2Fengine%2FxSupply%3Fparams%5B%5D%3D%257B%2522tagCode%2522%3A%2522223166%2522%2C%2522extra%2522%3A%257B%2522missionDefId%2522%3A3062001%2C%2522missionCollectionId%2522%3A95%2C%2522missionType%2522%3A%2522PAGEVIEW%2522%257D%257D%26bizCode%3Dbiz_code_main%26longitude%3D121.35623168945312%26latitude%3D41.17439270019531%26o2o_page_id%3Dxc539zecsy89e96dwzdebha2634lgqf6_1657551373879",
+                        "wait": 5
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Ftb.ele.me%2Fwow%2Falsc%2Fmod%2F2aaa71cba8b26c16c5f434c8%3Fmissionid%3D3062001%26missioncollectid%3D95%26spm%3Da2ogi.newretail-wild.viptask.d1%26taskfrom%3Dpage.spm%26bizscene%3DnewRetail%26taskpageviewasac%3D2A21119A45TTVAEXP40N7N",
+                        "wait": 23
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Fh5.ele.me%2Frestapi%2Fbiz.svip_scene%2Fsvip%2Fengine%2FxSupply%3Fparams%5B%5D%3D%257B%2522tagCode%2522%3A%2522223166%2522%2C%2522extra%2522%3A%257B%2522missionDefId%2522%3A6130001%2C%2522missionCollectionId%2522%3A95%2C%2522missionType%2522%3A%2522PAGEVIEW%2522%257D%257D%26bizCode%3Dbiz_code_main%26longitude%3D121.35623168945312%26latitude%3D41.17439270019531%26o2o_page_id%3Dxc539zecsy89e96dwzdebha2634lgqf6_1657551373879",
+                        "wait": 5
+                    },
+                    {
+                        "url": "eleme://web?url=https%3A%2F%2Ftb.ele.me%2Fwow%2Falsc%2Fmod%2F2aaa71cba8b26c16c5f434c8%3Fmissionid%3D6130001%26missioncollectid%3D95%26spm%3Da2ogi.newretail-wild.viptask.d2%26taskfrom%3Dpage.spm%26bizscene%3DnewRetail%26taskpageviewasac%3D2A21119A45TTVAEXP40N7N",
+                        "wait": 23
+                    },
+                    {
+                        "url": "eleme://home",
+                        "wait": 5
+                    }
+                ],
+                "item": [
+                    "3030001 170",
+                    "234001 36",
+                    "1150001 36",
+                    "4098001 36",
+                    "4242001 36",
+                    "4206001 36",
+                    "4192001 36",
+                    "4182001 36",
+                    "4642001 36",
+                    "4708001 36",
+                    "4702001 36",
+                    "4932001 36",
+                    "4648001 36",
+                    "4970001 36",
+                    "3500001 36",
+                    "5458001 36",
+                    "6478001 36",
+                    "6492001 36",
+                    "4548001 95",
+                    "4708001 36 S",
+                    "4702001 36 S",
+                    "4932001 36 S",
+                    "4648001 36 S",
+                    "4604001 36 S",
+                    "4970001 36 S",
+                    "3500001 36 S",
+                    "5178001 36 S",
+                    "5458001 36 S",
+                    "3226001 36 S",
+                    "4506001 95 P",
+                    "3062001 95 P",
+                    "4504001 95 P",
+                    "4544001 95 P",
+                    "4326003 95 P",
+                    "4546001 95 P",
+                    "4556001 95 P",
+                    "5018001 95 P",
+                    "4548001 95 P"
+                ]
+            }
         }
-      }
-
-
     }
-  }
+}
