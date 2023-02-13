@@ -1,0 +1,45 @@
+[
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "刘备",
+    "bookSourceName": "🚬 涩情001",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://seqing001.com",
+    "customOrder": -304901,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "enabledExplore": true,
+    "enabledReview": false,
+    "exploreUrl": "另类小说::/?cat=10&paged={{page}}\n校园春色::/?cat=5&paged={{page}}\n武侠科幻::/?cat=6&paged={{page}}\n\n人妻交换::/?cat=3&paged={{page}}\n家庭乱伦::/?cat=1&paged={{page}}\n强暴虐待::/?cat=9&paged={{page}}\n\n性爱技巧::/?cat=8&paged={{page}}",
+    "lastUpdateTime": 1676255405000,
+    "respondTime": 4826,
+    "ruleBookInfo": {
+      "intro": "[property=og:description]@content"
+    },
+    "ruleContent": {
+      "content": "//div[@class=\"post-content description \"]/p/text()"
+    },
+    "ruleExplore": {
+      "bookUrl": "//article/a/@href",
+      "intro": "",
+      "wordCount": ""
+    },
+    "ruleReview": {},
+    "ruleSearch": {
+      "author": "{{'知名不具'}}",
+      "bookList": "//div[@class=\"row listing grid-3\"]/div",
+      "bookUrl": "h2 a@href",
+      "coverUrl": "img@src",
+      "intro": "p@textNodes",
+      "kind": "span.cat-title@text",
+      "name": "h2@text"
+    },
+    "ruleToc": {
+      "chapterList": "//div[@class=\"heading cf\"]",
+      "chapterName": "//h1/text()",
+      "chapterUrl": "//div[@class=\"heading cf\"]/a/@href"
+    },
+    "searchUrl": "/?s={{key}}&paged={{page}}",
+    "weight": 0
+  }
+]
