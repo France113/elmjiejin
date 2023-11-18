@@ -1,0 +1,42 @@
+[
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "自添",
+    "bookSourceName": "疯情书库",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://fqbook.cc/",
+    "bookUrlPattern": "",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "enabledExplore": true,
+    "exploreUrl": "一月点击::/category.html?pageNum=1&pageSize=30&catId=-1&size=-1&isFinish=-1&updT=30&orderBy=click\n三月点击::/category.html?pageNum=1&pageSize=30&catId=-1&size=-1&isFinish=-1&updT=90&orderBy=click\n点击总榜::/category.html?pageNum=1&pageSize=30&catId=-1&size=-1&isFinish=-1&updT=-1&orderBy=click\n一月综合::/https://fqbook.cc/category.html?pageNum=1&pageSize=30&catId=-1&size=-1&isFinish=-1&updT=30&orderBy=-1\n三月综合::/https://fqbook.cc/category.html?pageNum=1&pageSize=30&catId=-1&size=-1&isFinish=-1&updT=90&orderBy=-1\n综合总榜::/category.html?pageNum=1&pageSize=30&catId=-1&size=-1&isFinish=-1&updT=-1&orderBy=-1\n穿越::/category.html?catId=chuanyue\n同人::/category.html?catId=tongren\n校园::/category.html?catId=xiaoyuan\n言情::/category.html?catId=yanqing\n官场::/category.html?catId=guanchang\n异能::/category.html?catId=yineng\n都市::/category.html?catId=dushi\n武侠::/category.html?catId=wuxia\n仙侠::/category.html?catId=xianxia\n单篇::/category.html?catId=danpian\n点击榜::/ranking.php?t=click\n新书榜::/ranking.php?t=newbook\n总字数榜::/category.html?pageNum=1&pageSize=30&catId=-1&size=-1&isFinish=-1&updT=-1&orderBy=wordcount",
+    "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62\"\n}",
+    "lastUpdateTime": 1690201041294,
+    "loginUrl": "",
+    "respondTime": 14096,
+    "ruleBookInfo": {
+      "coverUrl": "class.book_info_top_l@tag.img.0@src",
+      "intro": "class.jianjieneirong@text",
+      "lastChapter": "class.new_zhangjie1@tag.a@text",
+      "tocUrl": "class.xiaoshuomulu@tag.a.0@href"
+    },
+    "ruleContent": {
+      "content": "<js>java.ajax(baseUrl.replace('read-', '_getcontent.php?id=').replace('.html','&v=' + result.match(/&v=(.*?)\"/)[1])).replaceAll('<style.*style>','').replaceAll('<([^<]*?)class(.*?)</(.*?)>','')</js>"
+    },
+    "ruleSearch": {
+      "author": "tag.a.1@text||class.author@text",
+      "bookList": "class.sousuojieguo@tag.ul.0@tag.li||class.yuepiaobang@tag.tbody@tag.tr",
+      "bookUrl": "tag.a.0@href||class.shuming@tag.a@href",
+      "kind": "textNodes||class.fenlei@text",
+      "name": "tag.a.0@text||class.shuming@tag.a@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.section_list@tag.li",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href"
+    },
+    "searchUrl": "https://fqbook.cc/search.html?searchword={{key}}",
+    "weight": 0
+  }
+]
