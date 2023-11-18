@@ -1325,6 +1325,7 @@
         "variableComment": "",
         "weight": 0
     },
+
     {
         "bookSourceComment": "",
         "bookSourceGroup": "公众号：风雨信中故人来",
@@ -1484,7 +1485,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "公众号：风雨信中故人来",
-        "bookSourceName": "B L书阁",
+        "bookSourceName": "💗 B L 书阁",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.blshuge.com",
         "bookUrlPattern": "",
@@ -1718,7 +1719,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "公众号：风雨信中故人来",
-        "bookSourceName": "鬼吹灯② ,
+        "bookSourceName": "♜鬼吹灯② #破冰1101",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.cxbz958.com/#pb1101",
         "bookUrlPattern": "",
@@ -1796,7 +1797,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "公众号：风雨信中故人来",
-        "bookSourceName": "笔趣阁⑤⑦",
+        "bookSourceName": "♜ ✎笔趣阁⑤⑦ #破冰1101",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.ibiquge.net/#pb1101",
         "bookUrlPattern": "https://www.ibiquge.net/\\d+_\\d+/",
@@ -2105,4 +2106,5 @@
         "variableComment": "",
         "weight": 0
     }
+
 ]
