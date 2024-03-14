@@ -261,7 +261,7 @@
             "intro": "id.intro@text",
             "kind": "[property=og:novel:update_time]@content&&\n[property=og:novel:category]@content&&\n[property=og:novel:status]@content",
             "lastChapter": "id.info@tag.p.3@a@text",
-            "name": "id.info@tag.h1.0@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "id.info@tag.h1.0@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": ""
@@ -295,7 +295,7 @@
             "intro": "",
             "kind": "",
             "lastChapter": "tag.td.1@tag.a@text",
-            "name": "tag.td.0@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "tag.td.0@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -339,7 +339,7 @@
             "intro": "id.intro@text",
             "kind": "[property=og:novel:update_time]@content&&\n[property=og:novel:category]@content&&\n[property=og:novel:status]@content",
             "lastChapter": "id.info@tag.p.3@a@text",
-            "name": "id.info@tag.h1.0@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "id.info@tag.h1.0@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": ""
@@ -373,7 +373,7 @@
             "intro": "",
             "kind": "",
             "lastChapter": "tag.td.1@tag.a@text",
-            "name": "tag.td.0@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "tag.td.0@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -392,7 +392,7 @@
     {
         "bookSourceComment": "https://m.idejian.com\n（第一版翻车了，只能看前十章节）\nhttps://qq.idejian.com\n（第二版是网页版，在2022.12.03也已经翻车）\n当前\nhttps://wechat.idejian.com\n是第三版本，也是目前最新唯一能用的，请低调使用，再次翻车不负责修复！\n2022.12.04备忘语录",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "得间,
+        "bookSourceName": "得间小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://wechat.idejian.com#魔改app.26",
         "bookUrlPattern": "",
@@ -626,7 +626,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "无错,
+        "bookSourceName": "无错小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.wucuoxs.com",
         "bookUrlPattern": "",
@@ -938,7 +938,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "精品,
+        "bookSourceName": "精品小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://m.jingp.com",
         "bookUrlPattern": "http://m.jingp.com/book/\\d+.html",
@@ -1353,7 +1353,7 @@
             "intro": "class.intro@textNodes##作者.*|无弹窗.*",
             "kind": "class.info@class.small@tag.span.1@text&&\nclass.info@class.small@tag.span.2@text&&\nclass.info@class.small@tag.span.4@text##分类：|状态：|更新时间：",
             "lastChapter": "class.small@tag.span.5@a@text##百度搜索.*",
-            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": "class.info@class.small@tag.span.3@text##字数："
@@ -1374,7 +1374,7 @@
             "intro": "",
             "kind": "class.s5@text",
             "lastChapter": "class.s3@a@text",
-            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|
+            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说"
         },
         "ruleReview": {
             "review": ""
@@ -1387,7 +1387,7 @@
             "intro": "class.bookinfo@p@text",
             "kind": "class.cat@text##分类：",
             "lastChapter": "class.update@tag.a@text##百度搜索.*",
-            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -1562,7 +1562,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": ",
+        "bookSourceName": "小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.yetianlian.info",
         "bookUrlPattern": "",
@@ -1640,7 +1640,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "得奇,
+        "bookSourceName": "得奇小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.deqixs.com",
         "bookUrlPattern": "https://www.deqixs.com/xiaoshuo/\\d+/",
@@ -1899,7 +1899,7 @@
             "intro": "class.intro@text##简介：",
             "kind": "class.info@class.small@tag.span.4@text&&\nclass.info@class.small@tag.span.2@text&&\nclass.info@class.small@tag.span.1@text##分类：|状态：|更新时间：",
             "lastChapter": "class.info@class.small@tag.span.5@a@text##免费章节 |正文卷 |正文 |VIP章节 |百度搜索.*",
-            "name": "class.info@h1@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.info@h1@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": ""
@@ -1933,7 +1933,7 @@
             "intro": "class.bookinfo@p@text",
             "kind": "class.cat@text##分类：",
             "lastChapter": "class.update@tag.a@text##免费章节 |正文卷 |正文 |VIP章节 |百度搜索.*",
-            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -2186,7 +2186,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "蚂蚁,
+        "bookSourceName": "蚂蚁小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.tqcyjy.com",
         "bookUrlPattern": "",
@@ -2264,7 +2264,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "🎉 话本,
+        "bookSourceName": "🎉 话本小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.ihuaben.com",
         "bookUrlPattern": "",
@@ -2420,7 +2420,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "⭐卧龙,
+        "bookSourceName": "⭐卧龙小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.paper027.com",
         "bookUrlPattern": "",
@@ -2498,7 +2498,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "📜 SF轻,
+        "bookSourceName": "📜 SF轻小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://minipapi.sfacg.com",
         "bookUrlPattern": "",
@@ -2576,7 +2576,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "📖 SF轻,
+        "bookSourceName": "📖 SF轻小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://book.sfacg.com",
         "bookUrlPattern": "",
@@ -2810,7 +2810,7 @@
     {
         "bookSourceComment": "疑似同源\n苏明小说 https://www.sumingxs.com",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "⚖️ 三优,
+        "bookSourceName": "⚖️ 三优小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.3uxiaoshuo.com/##@遇知",
         "bookUrlPattern": "",
@@ -3200,7 +3200,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "三优,
+        "bookSourceName": "三优小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.3uxiaoshuo.com",
         "bookUrlPattern": "",
@@ -3278,7 +3278,7 @@
     {
         "bookSourceComment": "三优同站",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "择日,
+        "bookSourceName": "择日小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.zrfsxs.com",
         "bookUrlPattern": "https://www.zrfsxs.com/xiaoshuo/\\d+/",
@@ -3824,7 +3824,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "无极,
+        "bookSourceName": "无极小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://wujixsw.info",
         "bookUrlPattern": "",
@@ -3902,7 +3902,7 @@
     {
         "bookSourceComment": "注：若想下载到本地看，把左上角的类型“文本”改为“文件”。",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "86,
+        "bookSourceName": "86小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.txt86w.com",
         "bookUrlPattern": "",
@@ -4526,7 +4526,7 @@
     {
         "bookSourceComment": "全部 status=0\n连载 status=30\n完结 status=50",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "♨️ 全免,
+        "bookSourceName": "♨️ 全免小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://qmbook.taoyuewenhua.net/##@遇知",
         "bookUrlPattern": "",
@@ -4682,7 +4682,7 @@
     {
         "bookSourceComment": "https://m.idejian.com\n（第一版翻车了，只能看前十章节）\nhttps://qq.idejian.com\n（第二版是网页版，在2022.12.03也已经翻车）\n当前\nhttps://wechat.idejian.com\n是第三版本，也是目前最新唯一能用的，请低调使用，再次翻车不负责修复！\n2022.12.04备忘语录\n注：本源出处不明，群友提供，如有冒犯，请联系删除",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "得间,
+        "bookSourceName": "得间小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://wechat.idejian.com",
         "bookUrlPattern": "",
@@ -4994,7 +4994,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "🔖三一,
+        "bookSourceName": "🔖三一小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.31xs.com",
         "bookUrlPattern": "",
@@ -5462,7 +5462,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "燃文,
+        "bookSourceName": "燃文小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.ranwen.net",
         "bookUrlPattern": "",
@@ -5540,7 +5540,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "顶点,
+        "bookSourceName": "顶点小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.znxdxs.com",
         "bookUrlPattern": "",
@@ -5696,7 +5696,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "乐文,
+        "bookSourceName": "乐文小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.syhzzf.com",
         "bookUrlPattern": "",
@@ -5852,7 +5852,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "顶点,
+        "bookSourceName": "顶点小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.skynan.com",
         "bookUrlPattern": "",
@@ -5930,7 +5930,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "顶点,
+        "bookSourceName": "顶点小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.xiaoshuopu.com",
         "bookUrlPattern": "",
@@ -6008,7 +6008,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "书旗,
+        "bookSourceName": "书旗小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.shuq.net",
         "bookUrlPattern": "",
@@ -6164,7 +6164,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "番茄,
+        "bookSourceName": "番茄小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.fanqianxs.com",
         "bookUrlPattern": "",
@@ -6267,7 +6267,7 @@
             "intro": "class.intro@textNodes##作者.*|无弹窗.*",
             "kind": "[property=og:novel:update_time]@content&&\n[property=og:novel:category]@content&&\n[property=og:novel:status]@content ",
             "lastChapter": "class.small@tag.span.5@a@text##百度搜索.*",
-            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": "class.info@class.small@tag.span.3@text##字数："
@@ -6288,7 +6288,7 @@
             "intro": "",
             "kind": "class.s5@text",
             "lastChapter": "class.s3@a@text",
-            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|
+            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说"
         },
         "ruleReview": {
             "review": ""
@@ -6301,7 +6301,7 @@
             "intro": "class.bookinfo@p@text",
             "kind": "class.cat@text##分类：",
             "lastChapter": "class.update@tag.a@text##百度搜索.*",
-            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -6345,7 +6345,7 @@
             "intro": "class.intro@textNodes##作者.*|无弹窗.*",
             "kind": "class.info@class.small@tag.span.4@text&&\nclass.info@class.small@tag.span.1@text&&\nclass.info@class.small@tag.span.2@text##分类：|状态：|更新时间：",
             "lastChapter": "class.small@tag.span.5@a@text##百度搜索.*",
-            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": "class.info@class.small@tag.span.3@text##字数："
@@ -6366,7 +6366,7 @@
             "intro": "",
             "kind": "class.s5@text",
             "lastChapter": "class.s3@a@text",
-            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|
+            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说"
         },
         "ruleReview": {
             "review": ""
@@ -6379,7 +6379,7 @@
             "intro": "class.bookinfo@p@text",
             "kind": "class.cat@text##分类：",
             "lastChapter": "class.update@tag.a@text##百度搜索.*",
-            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -6501,7 +6501,7 @@
             "intro": "id.list@tag.p.0@text",
             "kind": "id.info@tag.p.3@text##更新时间：",
             "lastChapter": "@css:[property=og:novel:latest_chapter_name]@content##免费章节 |正文卷 |正文 |VIP章节|卷1",
-            "name": "id.info@tag.h1.0@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "id.info@tag.h1.0@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": ""
@@ -6535,7 +6535,7 @@
             "intro": "",
             "kind": "",
             "lastChapter": "tag.td.1@tag.a@text##免费章节 |正文卷 |正文 |VIP章节|卷1",
-            "name": "tag.td.0@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "tag.td.0@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -6579,7 +6579,7 @@
             "intro": "class.intro@textNodes##作者.*|无弹窗.*",
             "kind": "class.info@class.small@tag.span.4@text&&\nclass.info@class.small@tag.span.1@text&&\nclass.info@class.small@tag.span.2@text##分类：|状态：|更新时间：",
             "lastChapter": "class.small@tag.span.5@a@text##百度搜索.*",
-            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": "class.info@class.small@tag.span.3@text##字数："
@@ -6600,7 +6600,7 @@
             "intro": "",
             "kind": "class.s5@text",
             "lastChapter": "class.s3@a@text",
-            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|
+            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说"
         },
         "ruleReview": {
             "review": ""
@@ -6613,7 +6613,7 @@
             "intro": "class.bookinfo@p@text",
             "kind": "class.cat@text##分类：",
             "lastChapter": "class.update@tag.a@text##百度搜索.*",
-            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -7047,7 +7047,7 @@
             "intro": "class.intro@textNodes##作者.*|无弹窗.*",
             "kind": "class.info@class.small@tag.span.4@text&&\nclass.info@class.small@tag.span.1@text&&\nclass.info@class.small@tag.span.2@text##分类：|状态：|更新时间：",
             "lastChapter": "class.small@tag.span.5@a@text##百度搜索.*",
-            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": "class.info@class.small@tag.span.3@text##字数："
@@ -7068,7 +7068,7 @@
             "intro": "",
             "kind": "class.s5@text",
             "lastChapter": "class.s3@a@text",
-            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|
+            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说"
         },
         "ruleReview": {
             "review": ""
@@ -7081,7 +7081,7 @@
             "intro": "class.bookinfo@p@text",
             "kind": "class.cat@text##分类：",
             "lastChapter": "class.update@tag.a@text##百度搜索.*",
-            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -7125,7 +7125,7 @@
             "intro": "class.intro@textNodes##作者.*|无弹窗.*",
             "kind": "class.info@class.small@tag.span.4@text&&\nclass.info@class.small@tag.span.1@text&&\nclass.info@class.small@tag.span.2@text##分类：|状态：|更新时间：",
             "lastChapter": "class.small@tag.span.5@a@text##百度搜索.*",
-            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": "class.info@class.small@tag.span.3@text##字数："
@@ -7146,7 +7146,7 @@
             "intro": "",
             "kind": "class.s5@text",
             "lastChapter": "class.s3@a@text",
-            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|
+            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说"
         },
         "ruleReview": {
             "review": ""
@@ -7159,7 +7159,7 @@
             "intro": "class.bookinfo@p@text",
             "kind": "class.cat@text##分类：",
             "lastChapter": "class.update@tag.a@text##百度搜索.*",
-            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -7281,7 +7281,7 @@
             "intro": "id.intro@text",
             "kind": "id.info@tag.p.2@text##最后更新：",
             "lastChapter": "id.info@tag.p.3@a@text",
-            "name": "id.info@tag.h1.0@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "id.info@tag.h1.0@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": ""
@@ -7315,7 +7315,7 @@
             "intro": "",
             "kind": "",
             "lastChapter": "tag.td.1@tag.a@text",
-            "name": "tag.td.0@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "tag.td.0@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -7566,7 +7566,7 @@
         "weight": 0
     },
     {
-        "bookSourceComment": "同淘,
+        "bookSourceComment": "同淘小说",
         "bookSourceGroup": "风雨信中故人来",
         "bookSourceName": "淘悦文化",
         "bookSourceType": 0,
@@ -8158,7 +8158,7 @@
             "bookUrl": "tag.a.0@href",
             "coverUrl": "tag.img@_src",
             "intro": "tag.a.-1@text",
-            "kind": "tag.span.1@text&&tag.span.2@text##,
+            "kind": "tag.span.1@text&&tag.span.2@text##小说",
             "lastChapter": "",
             "name": "tag.h2@text"
         },
@@ -8582,7 +8582,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "🎉 蚂蚁,
+        "bookSourceName": "🎉 蚂蚁小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://wap.tqcyjy.com",
         "bookUrlPattern": "",
@@ -8816,7 +8816,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "177 ,
+        "bookSourceName": "177 小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.xs177.com",
         "bookUrlPattern": "https://www.xs177.com/xs_\\d+/",
@@ -8919,7 +8919,7 @@
             "intro": "id.intro@text",
             "kind": "id.info@tag.p.2@text##最后更新：",
             "lastChapter": "id.info@tag.p.3@a@text",
-            "name": "id.info@tag.h1.0@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "id.info@tag.h1.0@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": ""
@@ -8953,7 +8953,7 @@
             "intro": "",
             "kind": "",
             "lastChapter": "tag.td.1@tag.a@text",
-            "name": "tag.td.0@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "tag.td.0@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -8972,7 +8972,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "🔖花生,
+        "bookSourceName": "🔖花生小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://api.wan123x.com",
         "bookUrlPattern": "",
@@ -9855,7 +9855,7 @@
             "intro": "class.intro@textNodes##作者.*|无弹窗.*",
             "kind": "class.info@class.small@tag.span.4@text&&\nclass.info@class.small@tag.span.1@text&&\nclass.info@class.small@tag.span.2@text##分类：|状态：|更新时间：",
             "lastChapter": "class.small@tag.span.5@a@text##百度搜索.*",
-            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": "class.info@class.small@tag.span.3@text##字数："
@@ -9876,7 +9876,7 @@
             "intro": "",
             "kind": "class.s5@text",
             "lastChapter": "class.s3@a@text",
-            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|
+            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说"
         },
         "ruleReview": {
             "review": ""
@@ -9889,7 +9889,7 @@
             "intro": "class.bookinfo@p@text",
             "kind": "class.cat@text##分类：",
             "lastChapter": "class.update@tag.a@text##百度搜索.*",
-            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -10610,7 +10610,7 @@
     {
         "bookSourceComment": "风雨信中故人来",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "追书,
+        "bookSourceName": "追书小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://js.jsxsapp.com",
         "bookUrlPattern": "",
@@ -10766,7 +10766,7 @@
     {
         "bookSourceComment": "风雨信中故人来",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "🌊 溜达,
+        "bookSourceName": "🌊 溜达小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.liudatxt.net",
         "bookUrlPattern": "",
@@ -10869,7 +10869,7 @@
             "intro": "id.intro@text",
             "kind": "id.info@tag.p.2@text##最后更新：",
             "lastChapter": "id.info@tag.p.3@a@text",
-            "name": "id.info@tag.h1.0@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "id.info@tag.h1.0@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": ""
@@ -10903,7 +10903,7 @@
             "intro": "",
             "kind": "",
             "lastChapter": "tag.td.1@tag.a@text",
-            "name": "tag.td.0@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "tag.td.0@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -11000,7 +11000,7 @@
     {
         "bookSourceComment": "风雨信中故人来",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "天籁,
+        "bookSourceName": "天籁小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://wap.hsjsby.com",
         "bookUrlPattern": "",
@@ -11234,7 +11234,7 @@
     {
         "bookSourceComment": "风雨信中故人来",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "独步,
+        "bookSourceName": "独步小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.dubuxiaoshuo.com",
         "bookUrlPattern": "",
@@ -11337,7 +11337,7 @@
             "intro": "id.intro@text",
             "kind": "id.info@tag.p.2@text##最后更新：",
             "lastChapter": "@css:[property=og:novel:latest_chapter_name]@content",
-            "name": "id.info@h1@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "id.info@h1@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": ""
@@ -11371,7 +11371,7 @@
             "intro": "",
             "kind": "tag.td.4@text",
             "lastChapter": "tag.td.1@a@text",
-            "name": "tag.td.0@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "tag.td.0@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": "tag.td.3@text"
         },
         "ruleToc": {
@@ -11390,7 +11390,7 @@
     {
         "bookSourceComment": "风雨信中故人来",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "🌊 溜达,
+        "bookSourceName": "🌊 溜达小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.liudatxt.org",
         "bookUrlPattern": "",
@@ -11493,7 +11493,7 @@
             "intro": "id.intro@text",
             "kind": "id.info@tag.p.2@text##最后更新：",
             "lastChapter": "@css:[property=og:novel:latest_chapter_name]@content",
-            "name": "id.info@h1@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "id.info@h1@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": ""
@@ -11527,7 +11527,7 @@
             "intro": "",
             "kind": "tag.td.4@text",
             "lastChapter": "tag.td.1@a@text",
-            "name": "tag.td.0@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "tag.td.0@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": "tag.td.3@text"
         },
         "ruleToc": {
@@ -11961,7 +11961,7 @@
             "intro": "id.intro@text",
             "kind": "id.info@tag.p.2@text##最后更新：",
             "lastChapter": "id.info@tag.p.3@a@text",
-            "name": "id.info@tag.h1.0@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "id.info@tag.h1.0@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": ""
@@ -11995,7 +11995,7 @@
             "intro": "",
             "kind": "",
             "lastChapter": "tag.td.1@tag.a@text",
-            "name": "tag.td.0@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "tag.td.0@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -12170,7 +12170,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "💵 笔尚,
+        "bookSourceName": "💵 笔尚小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.bsxiaoshuo.com",
         "bookUrlPattern": "",
@@ -12351,7 +12351,7 @@
             "intro": "class.intro@textNodes##作者.*|无弹窗.*",
             "kind": "class.info@class.small@tag.span.4@text&&\nclass.info@class.small@tag.span.1@text&&\nclass.info@class.small@tag.span.2@text##分类：|状态：|更新时间：",
             "lastChapter": "class.small@tag.span.5@a@text##百度搜索.*",
-            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.info@h2@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "canReName": "",
             "tocUrl": "",
             "wordCount": "class.info@class.small@tag.span.3@text##字数："
@@ -12372,7 +12372,7 @@
             "intro": "",
             "kind": "class.s5@text",
             "lastChapter": "class.s3@a@text",
-            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|
+            "name": "class.s2@a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说"
         },
         "ruleReview": {
             "review": ""
@@ -12385,7 +12385,7 @@
             "intro": "class.bookinfo@p@text",
             "kind": "class.cat@text##分类：",
             "lastChapter": "class.update@tag.a@text##百度搜索.*",
-            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|,
+            "name": "class.bookname@tag.a@text##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|笔趣阁|小说",
             "wordCount": ""
         },
         "ruleToc": {
@@ -12638,7 +12638,7 @@
     {
         "bookSourceComment": "",
         "bookSourceGroup": "风雨信中故人来",
-        "bookSourceName": "爱看,
+        "bookSourceName": "爱看小说",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.bqg.lol",
         "bookUrlPattern": "",
