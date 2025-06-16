@@ -1,435 +1,177 @@
 {
- "ads": [
-  "wan.51img1.com",
-  "iqiyi.hbuioo.com",
-  "vip.ffzyad.com",
-  "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
-  "mimg.0c1q0l.cn",
-  "www.googletagmanager.com",
-  "www.google-analytics.com",
-  "mc.usihnbcq.cn",
-  "mg.g1mm3d.cn",
-  "mscs.svaeuzh.cn",
-  "cnzz.hhttm.top",
-  "tp.vinuxhome.com",
-  "cnzz.mmstat.com",
-  "www.baihuillq.com",
-  "s23.cnzz.com",
-  "z3.cnzz.com",
-  "c.cnzz.com",
-  "stj.v1vo.top",
-  "z12.cnzz.com",
-  "img.mosflower.cn",
-  "tips.gamevvip.com",
-  "ehwe.yhdtns.com",
-  "xdn.cqqc3.com",
-  "www.jixunkyy.cn",
-  "sp.chemacid.cn",
-  "hm.baidu.com",
-  "s9.cnzz.com",
-  "z6.cnzz.com",
-  "um.cavuc.com",
-  "mav.mavuz.com",
-  "wofwk.aoidf3.com",
-  "z5.cnzz.com",
-  "xc.hubeijieshikj.cn",
-  "tj.tianwenhu.com",
-  "xg.gars57.cn",
-  "k.jinxiuzhilv.com",
-  "cdn.bootcss.com",
-  "ppl.xunzhuo123.com",
-  "xomk.jiangjunmh.top",
-  "img.xunzhuo123.com",
-  "z1.cnzz.com",
-  "s13.cnzz.com",
-  "xg.huataisangao.cn",
-  "z7.cnzz.com",
-  "z2.cnzz.com",
-  "s96.cnzz.com",
-  "q11.cnzz.com",
-  "thy.dacedsfa.cn",
-  "xg.whsbpw.cn",
-  "s19.cnzz.com",
-  "z8.cnzz.com",
-  "s4.cnzz.com",
-  "f5w.as12df.top",
-  "ae01.alicdn.com",
-  "www.92424.cn",
-  "k.wudejia.com",
-  "vivovip.mmszxc.top",
-  "qiu.xixiqiu.com",
-  "cdnjs.hnfenxun.com",
-  "cms.qdwght.com"
- ],
- "flags": [
-  "youku",
-  "优酷",
-  "优 酷",
-  "优酷视频",
-  "qq",
-  "腾讯",
-  "腾 讯",
-  "腾讯视频",
-  "iqiyi",
-  "qiyi",
-  "奇艺",
-  "爱奇艺",
-  "爱 奇 艺",
-  "m1905",
-  "xigua",
-  "letv",
-  "leshi",
-  "乐视",
-  "乐 视",
-  "sohu",
-  "搜狐",
-  "搜 狐",
-  "搜狐视频",
-  "tudou",
-  "pptv",
-  "mgtv",
-  "芒果",
-  "imgo",
-  "芒果TV",
-  "芒 果 T V",
-  "bilibili",
-  "哔 哩",
-  "哔 哩 哔 哩",
-  "QQ",
-  "PPTV",
-  "ltnb",
-  "rx",
-  "CL4K",
-  "xfyun",
-  "wuduzy",
-  "wasu",
-  "renrenmi",
-  "xmm",
-  "m1905 ",
-  "funshion ",
-  "duoduozy",
-  "xinluan",
-  "ddzy",
-  "tgqp",
-  "tkqp",
-  "XRJX",
-  "哔哩哔哩",
-  "哔哩"
- ],
- "ijk": [
-  {
-   "group": "软解码",
-   "options": [
+  "spider": "./TG.jar",
+  "wallpaper": "荧屏流光曲悠扬，心随律动梦徜徉",
+  "logo": "./java/logo.jpg",
+  "lives": [
     {
-     "category": 4,
-     "name": "opensles",
-     "value": "0"
-    },
-    {
-     "category": 4,
-     "name": "overlay-format",
-     "value": "842225234"
-    },
-    {
-     "category": 4,
-     "name": "framedrop",
-     "value": "1"
-    },
-    {
-     "category": 4,
-     "name": "soundtouch",
-     "value": "1"
-    },
-    {
-     "category": 4,
-     "name": "start-on-prepared",
-     "value": "1"
-    },
-    {
-     "category": 1,
-     "name": "http-detect-range-support",
-     "value": "0"
-    },
-    {
-     "category": 1,
-     "name": "fflags",
-     "value": "fastseek"
-    },
-    {
-     "category": 2,
-     "name": "skip_loop_filter",
-     "value": "48"
-    },
-    {
-     "category": 4,
-     "name": "reconnect",
-     "value": "1"
-    },
-    {
-     "category": 4,
-     "name": "max-buffer-size",
-     "value": "5242880"
-    },
-    {
-     "category": 4,
-     "name": "enable-accurate-seek",
-     "value": "0"
-    },
-    {
-     "category": 4,
-     "name": "mediacodec",
-     "value": "0"
-    },
-    {
-     "category": 4,
-     "name": "mediacodec-auto-rotate",
-     "value": "0"
-    },
-    {
-     "category": 4,
-     "name": "mediacodec-handle-resolution-change",
-     "value": "0"
-    },
-    {
-     "category": 4,
-     "name": "mediacodec-hevc",
-     "value": "0"
-    },
-    {
-     "category": 1,
-     "name": "dns_cache_timeout",
-     "value": "600000000"
+      "name": "TGlive",
+      "type": 0,
+      "playerType": 2,
+      "url": "./java/lib/yinyue.png"
     }
-   ]
-  },
-  {
-   "group": "硬解码",
-   "options": [
+  ],
+  "sites": [
     {
-     "category": 4,
-     "name": "opensles",
-     "value": "0"
+      "key": "哔哩",
+      "name": "MUSIC音乐台｜关注公众号《风雨信中故人来》获取更多免费资源",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./java/哔哩MTV.json"
     },
     {
-     "category": 4,
-     "name": "overlay-format",
-     "value": "842225234"
+      "key": "js_车载MV",
+      "name": "TG-车载音乐",
+      "type": 3,
+      "api": "./java/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./java/车载MV.js"
     },
     {
-     "category": 4,
-     "name": "framedrop",
-     "value": "1"
+      "key": "yinyue",
+      "name": "TG-榜单音乐",
+      "type": 3,
+      "api": "csp_Kugou",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
     },
     {
-     "category": 4,
-     "name": "soundtouch",
-     "value": "1"
+      "key": "分类音乐",
+      "name": "TG-分类音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./java/yinyue.json"
     },
     {
-     "category": 4,
-     "name": "start-on-prepared",
-     "value": "1"
+      "key": "hipy_js_KTV歌厅[听]",
+      "name": "TG-明星歌厅",
+      "type": 3,
+      "api": "./java/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./java/KTV歌厅.js"
     },
     {
-     "category": 1,
-     "name": "http-detect-range-support",
-     "value": "0"
+      "key": "TAOIktv",
+      "name": "TG-明星备用",
+      "type": 3,
+      "api": "csp_WexIktv",
+      "jar": "./java/wex.txt",
+      "searchable": 1,
+      "changeable": 0
     },
     {
-     "category": 1,
-     "name": "fflags",
-     "value": "fastseek"
+      "key": "舞蹈音乐",
+      "name": "TG-舞蹈音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./java/吾爱舞蹈.json"
     },
     {
-     "category": 2,
-     "name": "skip_loop_filter",
-     "value": "48"
+      "key": "哟哟音乐",
+      "name": "TG-动感哟哟",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./java/DJyyyyw.json"
     },
     {
-     "category": 4,
-     "name": "reconnect",
-     "value": "1"
+      "key": "酷奇",
+      "name": "TG-酷奇MV",
+      "type": 3,
+      "api": "./java/lib/drpy2.min.js",
+      "ext": "./java/酷奇MV.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
-     "category": 4,
-     "name": "max-buffer-size",
-     "value": "5242880"
+      "key": "吾爱演唱会",
+      "name": "TG-哔哩演唱",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./java/吾爱演唱会.json"
     },
     {
-     "category": 4,
-     "name": "enable-accurate-seek",
-     "value": "0"
+      "key": "直播转点播",
+      "name": "TG-音乐点播",
+      "type": 3,
+      "api": "./java/lib/zbzdb.js",
+      "ext": "http://www.jielifan.com/data/f_85446651.png"
     },
     {
-     "category": 4,
-     "name": "mediacodec",
-     "value": "1"
+      "key": "drpy_js_蜻蜓FM",
+      "name": "TG-蜻蜓FM",
+      "type": 3,
+      "api": "./java/lib/drpy2.min.js",
+      "ext": "./java/蜻蜓FM.js",
+      "playerType": "2"
     },
     {
-     "category": 4,
-     "name": "mediacodec-auto-rotate",
-     "value": "1"
+      "key": "hipy_js_种子音乐[听]",
+      "name": "TG-种子音乐",
+      "type": 3,
+      "api": "./java/lib/drpy3.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./java/种子音乐[听].js"
     },
     {
-     "category": 4,
-     "name": "mediacodec-handle-resolution-change",
-     "value": "1"
+      "key": "hipy_js_贝乐虎[儿]",
+      "name": "TG-贝乐儿歌",
+      "type": 3,
+      "api": "./java/lib/drpy3.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./java/贝乐虎[儿].js"
     },
     {
-     "category": 4,
-     "name": "mediacodec-hevc",
-     "value": "1"
+      "key": "健身瑜伽",
+      "name": "TG-健身瑜伽",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./java/哔哩合集2.json"
     },
     {
-     "category": 1,
-     "name": "dns_cache_timeout",
-     "value": "600000000"
+      "key": "公告",
+      "name": "MUSIC音乐：请定期清缓存",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "changeable": 0
     }
-   ]
-  }
- ],
- "lives": [
-  {
-   "channels": null,
-   "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-   "group": null,
-   "name": "影视",
-   "type": 0,
-   "url": "https://jihulab.com/z-blog/vip/-/raw/main/dd/lib/v.txt"
-  },
-  {
-   "channels": [
-    {
-     "name": "live",
-     "urls": [
-      "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXRidWNrZXQub3JnL3hkdW8vZHVvYXBpL3Jhdy9tYXN0ZXIvdi50eHQ="
-     ]
-    }
-   ],
-   "epg": null,
-   "group": "redirect",
-   "name": null,
-   "type": null,
-   "url": null
-  },
-  {
-   "channels": null,
-   "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-   "group": null,
-   "name": "live",
-   "type": 0,
-   "url": "https://jihulab.com/z-blog/xh2/-/raw/main/lib/live.txt"
-  },
-  {
-   "channels": null,
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "group": null,
-   "name": "肥猫",
-   "type": 0,
-   "url": "http://我不是.肥猫.live/TV/tvzb.txt"
-  },
-  {
-   "channels": null,
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "group": null,
-   "name": "SAO0",
-   "type": 0,
-   "url": "https://raw.liucn.cc/box/libs/tv/tvlive.txt"
-  }
- ],
- "sites": [
-  {
-   "api": "csp_Bili",
-   "categories": null,
-   "click": null,
-   "ext": "https://raw.liucn.cc/box/libs/bilibili.json",
-   "filterable": null,
-   "hide": -1,
-   "jar": "https://raw.liucn.cc/box/fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
-   "key": "Bili",
-   "name": "🅱哔哔┃合集",
-   "playerType": -1,
-   "playerUrl": null,
-   "quickSearch": 0,
-   "searchable": 1,
-   "type": 3,
-   "status": 1
-  },
-  {
-   "api": "csp_Bili",
-   "categories": null,
-   "click": null,
-   "ext": "https://raw.liucn.cc/box/libs/biliych.json",
-   "filterable": null,
-   "hide": -1,
-   "jar": "https://raw.liucn.cc/box/fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
-   "key": "Biliych",
-   "name": "🅱哔哔┃歌曲",
-   "playerType": -1,
-   "playerUrl": null,
-   "quickSearch": 0,
-   "searchable": 1,
-   "type": 3,
-   "status": 1
-  },
-  {
-   "api": "csp_Bili",
-   "categories": null,
-   "click": null,
-   "ext": "https://raw.liucn.cc/box/libs/bili.json",
-   "filterable": 1,
-   "hide": -1,
-   "jar": "./libs/jar/XBPQ.jar",
-   "key": "csp_Bili",
-   "name": "🅱️┃哔哩┃合集",
-   "playerType": -1,
-   "playerUrl": null,
-   "quickSearch": 0,
-   "searchable": 1,
-   "type": 3,
-   "status": 1
-  },
-  {
-   "api": "csp_AList",
-   "categories": null,
-   "click": null,
-   "ext": {
-    "drives": [
-     {
-      "name": "Ecve",
-      "server": "https://pan.ecve.cn/"
-     },
-     {
-      "name": "小鸭",
-      "server": "https://pan.mediy.cn/"
-     },
-     {
-      "name": "秋雨",
-      "server": "https://share.qiuyu.org/"
-     },
-     {
-      "name": "小雅",
-      "server": "http://alist.xiaoya.pro/"
-     },
-     {
-      "name": "七米蓝",
-      "server": "https://al.chirmyram.com/"
-     },
-     {
-      "name": "蓼茶",
-      "server": "http://175.178.16.226:62494/"
-     },
-     {
-      "name": "柯南",
-      "server": "https://alist.523.monster/"
-     },
-     {
-      "name": "老谭",
-      "server": "https://pan.cqtjy.cn/ali"
-     }
-    ]
- ],
- "spider": "https://jihulab.com/z-blog/vip/-/raw/main/dd/lib/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171",
- "wallpaper": "https://深色壁纸.xxooo.cf/",
- "warningText": "接口来源于【公众号：风雨信中故人来】免费整理维护，请勿付费购买"
+  ]
 }
