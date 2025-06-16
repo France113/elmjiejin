@@ -19,17 +19,17 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://fyxzgrl.cn/uploads/java/哔哩MTV.json"
+      "ext": "./java/哔哩MTV.json"
     },
     {
       "key": "js_车载MV",
       "name": "TG-车载音乐",
       "type": 3,
-      "api": "https://fyxzgrl.cn/uploads/java/lib/drpy2.min.js",
+      "api": "./java/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fyxzgrl.cn/uploads/java/车载MV.js"
+      "ext": "./java/车载MV.js"
     },
     {
       "key": "yinyue",
@@ -63,14 +63,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://fyxzgrl.cn/uploads/java/KTV歌厅.js"
+      "ext": "./java/KTV歌厅.js"
     },
     {
       "key": "TAOIktv",
       "name": "TG-明星备用",
       "type": 3,
       "api": "csp_WexIktv",
-      "jar": "https://fyxzgrl.cn/uploads/java/wex.txt",
+      "jar": "./java/wex.txt",
       "searchable": 1,
       "changeable": 0
     },
@@ -82,7 +82,7 @@
       "searchable": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://fyxzgrl.cn/uploads/java/吾爱舞蹈.json"
+      "ext": "./java/吾爱舞蹈.json"
     },
     {
       "key": "哟哟音乐",
@@ -92,14 +92,14 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://fyxzgrl.cn/uploads/java/DJyyyyw.json"
+      "ext": "./java/DJyyyyw.json"
     },
     {
       "key": "酷奇",
       "name": "TG-酷奇MV",
       "type": 3,
-      "api": "https://fyxzgrl.cn/uploads/java/lib/drpy2.min.js",
-      "ext": "https://fyxzgrl.cn/uploads/java/酷奇MV.js",
+      "api": "./java/lib/drpy2.min.js",
+      "ext": "./java/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -116,44 +116,44 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://fyxzgrl.cn/uploads/java/吾爱演唱会.json"
+      "ext": "./java/吾爱演唱会.json"
     },
     {
       "key": "直播转点播",
       "name": "TG-音乐点播",
       "type": 3,
       "api": "./java/lib/zbzdb.js",
-      "ext": "http://www.jielifan.com/data/f_85446651.png"
+      "ext": "./f_85446651.png"
     },
     {
       "key": "drpy_js_蜻蜓FM",
       "name": "TG-蜻蜓FM",
       "type": 3,
-      "api": "https://fyxzgrl.cn/uploads/java/lib/drpy2.min.js",
-      "ext": "https://fyxzgrl.cn/uploads/java/蜻蜓FM.js",
+      "api": "./java/lib/drpy2.min.js",
+      "ext": "./java/蜻蜓FM.js",
       "playerType": "2"
     },
     {
       "key": "hipy_js_种子音乐[听]",
       "name": "TG-种子音乐",
       "type": 3,
-      "api": "https://fyxzgrl.cn/uploads/java/lib/drpy3.min.js",
+      "api": "./java/lib/drpy3.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://fyxzgrl.cn/uploads/java/种子音乐[听].js"
+      "ext": "./java/种子音乐[听].js"
     },
     {
       "key": "hipy_js_贝乐虎[儿]",
       "name": "TG-贝乐儿歌",
       "type": 3,
-      "api": "https://fyxzgrl.cn/uploads/java/lib/drpy3.min.js",
+      "api": "./java/lib/drpy3.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://fyxzgrl.cn/uploads/java/贝乐虎[儿].js"
+      "ext": "./java/贝乐虎[儿].js"
     },
     {
       "key": "健身瑜伽",
@@ -163,7 +163,7 @@
       "searchable": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://fyxzgrl.cn/uploads/java/哔哩合集2.json"
+      "ext": "./java/哔哩合集2.json"
     },
     {
       "key": "公告",
