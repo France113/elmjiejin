@@ -1,4 +1,10 @@
-### 公众号：风雨信中故人来  的存储仓库   
+### 公众号：风雨信中故人来/明彰科技  的存储仓库   
+
+
+#### 阅读精选书源   
+#### 阅读书源_小说+漫画+听书+音乐   
+**https://raw.githubusercontent.com/France113/elmjiejin/refs/heads/main/%E8%AF%BB%E4%B8%8D%E8%88%8D%E6%89%8B/shareBookSource2026.02.05.json**   
+
 
 #### PC看剧box资源   
 #### zyfun_zyplayer精校源（手工测试_纯净）   
